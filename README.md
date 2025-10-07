@@ -2,7 +2,10 @@
 
 Aplikasi web interaktif yang dibangun dengan **Streamlit** untuk mengklasifikasikan pesan SMS sebagai **Spam** atau **Ham** (bukan spam). Model ini menggunakan jaringan *Long Short-Term Memory* (LSTM) yang dilatih dengan **TensorFlow/Keras**.
 
-![Demo Aplikasi](https://i.imgur.com/k6Fk5sL.gif)
+## Demo Aplikasi
+
+<img width="480" height="680" alt="image" src="https://github.com/user-attachments/assets/b7b0cafa-185d-4b80-89ec-4fc0894793b0" />
+
 
 ---
 
