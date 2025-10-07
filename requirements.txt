@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+chardet
+matplotlib
+seaborn
+imbalanced-learn
+contractions
+wordcloud
+scikit-learn
+tensorflow
