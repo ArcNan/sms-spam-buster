@@ -1,4 +1,4 @@
-# 🤖 Detektor SMS Spam (LSTM)
+# 🤖 Detektor SMS Spam Bahasa Inggris (LSTM)
 
 Aplikasi web interaktif yang dibangun dengan **Streamlit** untuk mengklasifikasikan pesan SMS sebagai **Spam** atau **Ham** (bukan spam). Model ini menggunakan jaringan *Long Short-Term Memory* (LSTM) yang dilatih dengan **TensorFlow/Keras**.
 
